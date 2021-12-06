@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marito91
-- 👀 I’m interested in gaming!
-- 🌱 I’m currently learning HTML / Javascript
+- 👀 I’m interested in programming videogames and webpages.
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me: dm me.
 
