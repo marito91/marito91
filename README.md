@@ -1,16 +1,14 @@
 ### Hi, I'm Mario 👋
 
-Senior Onboarding & Implementation Specialist with a full-stack development background.
-
-I've spent the last 5+ years bridging the gap between technology and people — designing LMS platforms, building internal tools, and leading technical onboarding programs across EdTech and SaaS.
+Implementation & Onboarding Specialist with a full-stack development background. I bridge the gap between technology and people, with 11+ years leading digital transformation, technical onboarding, and SaaS adoption programs across EdTech and institutional settings.
 
 **What I bring:**
-- 🚀 SaaS onboarding & implementation expertise
-- 🎓 LMS design, deployment & administration
-- 💻 Full-stack development (React, Node.js, Python, MongoDB)
+- 🚀 SaaS onboarding & implementation, owned end-to-end without pre-existing playbooks
+- 🎓 LMS design, deployment & administration (Moodle, ManageBac, Turnitin)
+- 💻 Full-stack development (React, Node.js, Express, MongoDB)
 - 🔄 Workflow automation & API integrations
-- 📊 Data-driven training & adoption strategies
+- 🧠 Psychology background applied to technology adoption and user enablement
 
-**Currently:** Leading onboarding operations at a SaaS company, designing scalable client enablement programs.
+**Currently:** Actively pursuing remote international roles in Customer Success, Implementation, and Digital Adoption.
 
-📫 [LinkedIn](https://www.linkedin.com/in/mario-gomez-a5b131187/) · Bogotá, Colombia 🇨🇴 · EU Passport 🇪🇺
+📫 LinkedIn: https://www.linkedin.com/in/mario-gomez-a5b131187/ · Bogotá, Colombia 🇨🇴 · EU Passport 🇪🇺
